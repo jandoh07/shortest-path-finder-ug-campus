@@ -52,6 +52,6 @@ This project uses Maven for dependency management. Required libraries include:
 Path finding is not a 100% accurate, accuracy depends on the edges and nodes csv files.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
    
